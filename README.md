@@ -4,11 +4,10 @@
 
 Creating bold digital experiences and visual identities rooted in street culture.
 
-📍 South Africa
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm Malema Mpho Given — a web developer and graphic designer from KuGompo City, Eastern Cape.
 
@@ -20,7 +19,7 @@ My approach combines technical precision with creative vision. I don't just buil
 
 ---
 
-## 🔥 Skills
+##  Skills
 
 - Full Stack Web Development
 - HTML, CSS & JavaScript
@@ -33,7 +32,7 @@ My approach combines technical precision with creative vision. I don't just buil
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### DripYard E-Commerce Store
 Complete streetwear online store with:
@@ -59,10 +58,10 @@ Complete visual branding including:
 
 ---
 
-## 📊 Stats
+##  Stats
 
 - 4+ Years Experience
-- 3+ Projects Completed
+- 5+ Projects Completed
 - 100% Passion
 
 ---
