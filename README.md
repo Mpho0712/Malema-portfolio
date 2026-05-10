@@ -1,4 +1,4 @@
-# Malema Mpho Given 🚀
+# Malema Mpho Given 
 
 ### Web Developer, Graphic Designer & Founder of DripYard
 
@@ -9,13 +9,13 @@ Creating bold digital experiences and visual identities rooted in street culture
 
 ##  About Me
 
-I'm Malema Mpho Given — a web developer and graphic designer from KuGompo City, Eastern Cape.
+I'm Malema Mpho Given...a web developer and graphic designer from KuGompo City, Eastern Cape.
 
 I specialize in building clean, high-performing websites and creating bold brand identities.
 
-As the founder of DripYard, I understand what it takes to build a brand from the ground up — from code to creativity, every detail matters.
+As the founder of DripYard, I understand what it takes to build a brand from the ground up...from code to creativity, every detail matters.
 
-My approach combines technical precision with creative vision. I don't just build websites — I build experiences that connect with people.
+My approach combines technical precision with creative vision. I don't just build websites...I build experiences that connect with people.
 
 ---
 
